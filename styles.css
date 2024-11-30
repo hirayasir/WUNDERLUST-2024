@@ -497,7 +497,7 @@ footer p, footer a {
     padding: 1em;
 }
 
-/* -----  ----- */
+
 .sr-only {
     position: absolute;
     width: 1px;
@@ -722,7 +722,7 @@ footer p, footer a {
 
 /* MEDIUM PLUS */
     @media screen and (min-width: 1024px){
-            /* ----- ----- */
+         
             #plan div {
                 grid-template-columns: repeat(4, 1fr);
                 grid-template-rows: 1fr;
